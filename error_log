@@ -1,0 +1,8 @@
+[01-Jul-2016 03:24:01 America/Chicago] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: YES) in /home/greatold/public_html/classes/Dbase.php on line 25
+[01-Jul-2016 03:34:45 America/Chicago] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: YES) in /home/greatold/public_html/classes/Dbase.php on line 25
+[01-Jul-2016 03:42:22 America/Chicago] PHP Warning:  mysql_connect(): Access denied for user 'greatold'@'localhost' (using password: YES) in /home/greatold/public_html/classes/Dbase.php on line 25
+[02-Jul-2016 04:19:43 America/Chicago] PHP Warning:  curl_setopt(): CURLOPT_FOLLOWLOCATION cannot be activated when an open_basedir is set in /home/greatold/public_html/classes/PayPal.php on line 348
+[02-Jul-2016 04:23:40 America/Chicago] PHP Warning:  curl_setopt(): CURLOPT_FOLLOWLOCATION cannot be activated when an open_basedir is set in /home/greatold/public_html/classes/PayPal.php on line 348
+[02-Jul-2016 09:27:34 America/Chicago] PHP Warning:  curl_setopt(): CURLOPT_FOLLOWLOCATION cannot be activated when an open_basedir is set in /home/greatold/public_html/classes/PayPal.php on line 348
+[02-Jul-2016 09:28:26 America/Chicago] PHP Warning:  curl_setopt(): CURLOPT_FOLLOWLOCATION cannot be activated when an open_basedir is set in /home/greatold/public_html/classes/PayPal.php on line 348
+[02-Jul-2016 09:29:03 America/Chicago] PHP Warning:  curl_setopt(): CURLOPT_FOLLOWLOCATION cannot be activated when an open_basedir is set in /home/greatold/public_html/classes/PayPal.php on line 348
